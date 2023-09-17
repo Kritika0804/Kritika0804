@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kritika0804&label=Profile%20views&color=0e75b6&style=flat" alt="kritika0804" /> </p>
 
 
- 🎓 I’m at final year pursuing my **Bachelors in Computer Science and Engineering** <br/>
- 🔭 I’m currently working on **MERN stack development** <br/>
- 🌱 I’m intrested in **Competetive programming** <br/>
- 👯 I’m looking to collaborate on **backend development and ui designer** <br/>
- 💬 Ask me about **Front end development** <br/>
- 📫 How to reach me: **kritikanc2003@gmail.com** <br/>
- 😄 Pronouns: **She/Her** <br/>
+ 🎓 I’m at final year pursuing my **Bachelors in Computer Science and Engineering** <br/><br/>
+ 🔭 I’m currently working on **MERN stack development** <br/><br/>
+ 🌱 I’m intrested in **Competetive programming** <br/><br/>
+ 👯 I’m looking to collaborate on **backend development and ui designer** <br/><br/>
+ 💬 Ask me about **Front end development** <br/><br/>
+ 📫 How to reach me: **kritikanc2003@gmail.com** <br/><br/>
+ 😄 Pronouns: **She/Her** <br/><br/><br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kritika-choudhary-ba00ab213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kritika-choudhary-ba00ab213/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kritika_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kritika_104" height="30" width="40" /></a>
