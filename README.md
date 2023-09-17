@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kritika0804&label=Profile%20views&color=0e75b6&style=flat" alt="kritika0804" /> </p>
 
+<div align="center">
  🎓 I’m at final year pursuing my **Bachelors in Computer Science and Engineering** <br/>
  🔭 I’m currently working on **MERN stack development** <br/>
  🌱 I’m intrested in **Competetive programming** <br/>
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
  💬 Ask me about **Front end development** <br/>
  📫 How to reach me: **kritikanc2003@gmail.com** <br/>
  😄 Pronouns: **She/Her** <br/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kritika-choudhary-ba00ab213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kritika-choudhary-ba00ab213/" height="30" width="40" /></a>
