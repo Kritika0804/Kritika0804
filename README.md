@@ -4,25 +4,25 @@
 **Kritika0804/Kritika0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🎓 I’m at final year pursuing my Bachelors in Computer Science and Engineering.
+- 🔭 I’m currently working on MERN stack development
+- 🌱 I’m intrested in competetive programming
+- 👯 I’m looking to collaborate on backend development and ui designer
+- 💬 Ask me about Front end
+- 📫 How to reach me: kritikanc2003@gmail.com
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Kritika</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kritika0804&label=Profile%20views&color=0e75b6&style=flat" alt="kritika0804" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kritika0804&label=Profile%20views&color=0e75b6&style=flat" alt="kritika0804" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **Front end**
-
-- 📫 How to reach me **kritikanc2003@gmail.com**
-
+ 🎓 I’m at final year pursuing my **Bachelors in Computer Science and Engineering** <br/>
+ 🔭 I’m currently working on **MERN stack development** <br/>
+ 🌱 I’m intrested in **Competetive programming** <br/>
+ 👯 I’m looking to collaborate on **backend development and ui designer** <br/>
+ 💬 Ask me about **Front end development** <br/>
+ 📫 How to reach me: **kritikanc2003@gmail.com** <br/>
+ 😄 Pronouns: **She/Her** <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kritika-choudhary-ba00ab213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kritika-choudhary-ba00ab213/" height="30" width="40" /></a>
@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kritika0804&show_icons=true&locale=en" alt="kritika0804" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritika0804&" alt="kritika0804" /></p>
+
+[![Kritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kritika0804&theme=github-compact)](https://github.com/Kritika0804/github-readme-activity-graph)
