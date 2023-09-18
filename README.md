@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kritika</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kritika0804&label=Profile%20views&color=0e75b6&style=flat" alt="kritika0804" /> </p>
 
+<div align="center">
+<img  src="Banner.png" alt="cover" />
+</div>
+
 
  🎓 I’m at final year pursuing my **Bachelors in Computer Science and Engineering** <br/><br/>
  🔭 I’m currently working on **MERN stack development** <br/><br/>
